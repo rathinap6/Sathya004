@@ -12,6 +12,6 @@ void main()
         if(s[i]==' ')
         c++;
     }
-    t=l-c;
+    t=len-c;
     printf("%d",t);
 }
